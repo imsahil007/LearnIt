@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/videotitlewillcomehere"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:hint="    Video title"
+        android:paddingLeft="10dp"
+        android:layout_margin="40dp"
+        android:background="@drawable/editextround"
+        />
+    <EditText
+        android:id="@+id/linkwillcomehere"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="40dp"
+        android:paddingLeft="10dp"
+
+        android:hint="    Video link"
+        android:background="@drawable/editextround"
+        />
+
+    <Button
+        android:id="@+id/insertinfirebase"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="40dp"
+        android:background="@drawable/buttonround"
+        android:text="Add the video to your course"
+        android:textAllCaps="false"
+        android:textColor="@color/cardview_light_background" />
+
+
+
+</LinearLayout>

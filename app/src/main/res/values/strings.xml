@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">LearnIt</string>
+    <string name="title_activity_login">LearnIt</string>
+    <string name="tutor">Tutor</string>
+    <string name="student">Student</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="facebook_app_id">1947479948657281</string>
+    <string name="fb_login_protocol_scheme">fb1947479948657281</string>
+
+    <string name="title_activity_tutoractivity">Tutor corner</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="btn_skip_intro">Skip Intro</string>
+
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+
+    <string-array name="category">
+        <item>Choose category</item>
+        <item>All</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Computer_Science</item>
+        <item>Mathematics</item>
+        <item>Commerce</item>
+        <item>Others</item>
+    </string-array>
+    <string name="title_activity_studentactivity">Student corner</string>
+
+
+</resources>

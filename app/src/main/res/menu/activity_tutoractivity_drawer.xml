@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_courses"
+            android:icon="@mipmap/ic_library_books_black_24dp"
+            android:title="My courses" />
+        <item
+            android:id="@+id/course_list"
+            android:icon="@mipmap/ic_list_black_24dp"
+            android:title="All courses" />
+        <item
+            android:id="@+id/add_course"
+            android:icon="@mipmap/ic_add_box_black_24dp"
+            android:title="Add new course" />
+
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@mipmap/ic_exit_to_app_black_24dp"
+                android:title="Sign out" />
+        </menu>
+    </item>
+
+</menu>
