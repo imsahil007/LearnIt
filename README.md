@@ -16,7 +16,7 @@ An Android based study portal through which students can access various video le
 - A list of videos can we watched after selecting the course in your course-list.
 
 ## Screenshots:
-![SignUp/SignIn Screen](images/Login.png)             ![My course List Screen](images/Mycourse.png)          ![All Courses](images/All.png)
+![SignUp/SignIn Screen](images/LoginActivity.jpeg)           ![My course List Screen](images/Mycourse.png)          ![All Courses](images/All.png)
 ![Some Course](images/some.png)                       ![Video Example](images/video.png)
 
 
