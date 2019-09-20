@@ -17,7 +17,7 @@ An Android based study portal through which students can access various video le
 
 ## Screenshots:
 ![SignUp/SignIn Screen](images/LoginActivity.jpeg)
-<img src="./images/LoginActivity" width="100" height="100">
+<img src="./images/LoginActivity" width="200" height="350">
 ![My course List Screen](images/MyCourses.jpeg)          
 ![All Courses](images/CourseList.jpeg)
 ![Course Videos](images/CourseVideos.jpeg)                      
