@@ -16,8 +16,7 @@ An Android based study portal through which students can access various video le
 - A list of videos can we watched after selecting the course in your course-list.
 
 ## Screenshots:
-<img src="./images/LoginActivity.jpeg" width="200" height="350">
-<img src="./images/MyCourses.jpeg" width="200" height="350">
+<img src="./images/LoginActivity.jpeg" width="200" height="350"><img src="./images/MyCourses.jpeg" width="200" height="350">
 <img src="./images/CourseList.jpeg" width="200" height="350">
 <img src="./images/CourseVideos.jpeg" width="200" height="350">
 <img src="./images/VideoExample.jpeg" width="200" height="350">
@@ -26,7 +25,7 @@ An Android based study portal through which students can access various video le
 <img src="./images/LoginFacebook.jpeg" width="200" height="350">
 <img src="./images/Share.jpeg" width="200" height="350">
 <img src="./images/SuccesfulLogin.jpeg" width="200" height="350">
-<img src="./images/VideoActivity.jpeg" width="200" height="350">
+<img src="./images/VideoExample.jpeg" width="200" height="350">
 
 
 
