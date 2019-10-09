@@ -1,4 +1,4 @@
-# LearnIt
+# LearnIt- A new way to learn
 
 An Android based study portal through which students can access various video lecture courses via YouTube.
 
